@@ -1,0 +1,4 @@
+org\movies\movie.class
+org\movies\movieResource.class
+org\movies\movieRepository.class
+META-INF\panache-archive.marker
